@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyTimes-master.iml" filepath="$PROJECT_DIR$/.idea/modules/MyTimes-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyTimes-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyTimes-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dp.iml" filepath="$PROJECT_DIR$/.idea/modules/dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dp.app.iml" />
     </modules>
   </component>
 </project>
